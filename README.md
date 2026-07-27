@@ -1,4 +1,4 @@
-# Student Placement Prediction — Fixed Project
+# Student Placement Prediction 
 
 ## Files
 - `main.ipynb` — the notebook, with fixes #3 and #4 applied to the relevant cells.
