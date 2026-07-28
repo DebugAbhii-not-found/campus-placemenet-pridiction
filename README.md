@@ -4,7 +4,8 @@ A machine learning web application that predicts whether a student is likely to 
 during campus recruitment, based on academic performance and employability factors, and
 gives the student simple, actionable recommendations to improve their placement chances.
 
-**Live app:** https://campus-placemenet-pridiction-debugabhii.streamlit.app/
+**Live app1:** https://campus-placemenet-pridiction-debugabhii.streamlit.app/
+**Live app2:** https://campus-placemenet-pridiction-debugabhii-not-found.streamlit.app/
 
 ---
 
