@@ -28,3 +28,7 @@ If you want to retrain from scratch yourself (e.g. after changing something), ju
 Try nudging the classification threshold in `app1.py` — e.g. only call it "Placed" when
 `prediction_probability >= 0.55` or `0.6` instead of the default 0.5 — and see which
 threshold best matches your own judgment of the borderline cases in your test set.
+
+
+## DEPLOYED PROJET
+URL = https://campus-placemenet-pridiction-debugabhii.streamlit.app/
