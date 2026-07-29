@@ -12,7 +12,7 @@ gives the student simple, actionable recommendations to improve their placement 
 
 ## 1. Problem Statement
 
-Campus placement is one of the most consequential outcomes of a student's academic
+Campus placements is one of the most consequential outcomes of a student's academic
 journey, yet most students have no clear, data-backed sense of how their academic record
 and profile compare to students who have historically been placed. Career services teams
 and students alike currently rely on informal, anecdotal advice ("keep your percentage
